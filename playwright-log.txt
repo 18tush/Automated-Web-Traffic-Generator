@@ -1,0 +1,19 @@
+{"level":30,"time":"2022-07-25T08:27:15.169Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Listening on 53907"}
+{"level":30,"time":"2022-07-25T08:27:15.259Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:15.259Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:15.261Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:15.261Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:40.061Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:40.061Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:40.065Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:40.065Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:40.072Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:40.072Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:40.073Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:27:40.074Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:28:09.795Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:28:09.795Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:28:09.799Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:28:09.799Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-07-25T08:28:09.817Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-07-25T08:28:09.817Z","pid":7546,"hostname":"ITSupportsMBP2.domain.name","msg":"End of node method closeAllBrowsers"}
